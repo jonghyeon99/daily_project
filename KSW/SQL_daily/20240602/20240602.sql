@@ -1,0 +1,5 @@
+-- 코드를 입력하세요
+SELECT MAX(PRICE) AS MAS_PRICE
+FROM PRODUCT
+
+#최댓값 구하래서 MAX 쓰고 AS 씀
